@@ -62,6 +62,7 @@ body {
   box-shadow: 3px 3px 10px rgba(0,0,0,.5);
 }
 #input-container input {
+  width: calc(100% - 30px);
   height: 40px;
   flex: 1;
   border: 2px solid white;
