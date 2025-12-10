@@ -59,6 +59,7 @@ body {
   align-items: center;
   overflow: hidden;
   padding: 10px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,.5);
 }
 #input-container input {
   height: 40px;
@@ -135,6 +136,7 @@ body {
   background: var(--search-nav);
   border-radius: 10px;
   padding: 20px 10px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,.5);
 }
 .details {
   width: 100%;
